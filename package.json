@@ -5,8 +5,8 @@
   "main": "server.js",
   "license": "MIT",
   "engines": {
-    "node": "16.14.0",
-    "yarn": "1.22.5"
+    "node": "18.18.0",
+    "yarn": "1.22.22"
   },
   "scripts": {
     "start": "node server.js",
